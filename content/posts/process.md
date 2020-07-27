@@ -18,6 +18,13 @@ date: 2020-07-27T16:30:13+12:00
     4. "By combining Continuous Delivery and Hypothesis-Driven Development we can now define working software and validated learning as the primary measures of progress.
     5. "Hypothesis-Driven Development is a great opportunity to test what you think the problem is, before you work on the solution."
 
+2. [9 Principles for Lean UX](https://medium.com/@geekrebel/9-principles-for-lean-ux-64d9fc4da41b)
+    1. Lean Startup - "Build, Measure, learn"
+    2. Lean UX - "Think, Make, Check"
+    3. Focus on solving the right problem"
+    4. Repeatable & Routine - "This is how we do X"
+    
+
 ## Template
 
     Hypothesis
