@@ -1,7 +1,7 @@
 ---
 title: "Process"
 date: 2020-07-27T16:30:13+12:00
-draft: true
+draft: false
 ---
 
 # Hypothesis Driven Development
