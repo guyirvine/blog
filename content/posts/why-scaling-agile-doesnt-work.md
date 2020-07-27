@@ -1,7 +1,6 @@
 ---
 title: "Why Scaling Agile Doesn't Work"
 date: 2020-06-19T08:56:43+12:00
-draft: true
 ---
 
 [Link to video](https://www.youtube.com/watch?v=2zYxWEZ0gYg)

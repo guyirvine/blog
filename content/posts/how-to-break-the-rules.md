@@ -1,7 +1,6 @@
 ---
 title: "How to Break the Rules"
 date: 2020-07-07T08:12:11+12:00
-draft: true
 ---
 
 [Link to Video](https://www.youtube.com/watch?v=hZFShSjAhlQ)
