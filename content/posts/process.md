@@ -7,11 +7,12 @@ date: 2020-07-27T16:30:13+12:00
 
 ## References
 1. Lean UX
-2. [ThoughtWorks - HDD](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
+2. [Hypothesis Driven Development](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
+3. [Jobs To Be Done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
 ## Word Bites
 
-1. [ThoughtWorks - HDD](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
+1. [Hypothesis Driven Development](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
     1. "We need to change our mindset to view our proposed solution to a problem statement as a hypothesis"
     2. "We do not do projects anymore, only experiments."
     3. "The key outcome of an experimental approach is measurable evidence and learning."
@@ -23,7 +24,12 @@ date: 2020-07-27T16:30:13+12:00
     2. Lean UX - "Think, Make, Check"
     3. Focus on solving the right problem"
     4. Repeatable & Routine - "This is how we do X"
-    
+
+3. [Jobs To Be Done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
+    1. “I went in thinking we were in the business of new-home construction, But I realized we were in the business of moving lives.”
+
+## Images
+  ![What users really want](https://miro.medium.com/max/885/1*zKCygvaD47nCrqFTTmm8TQ.png)
 
 ## Template
 
