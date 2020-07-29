@@ -30,6 +30,7 @@ date: 2020-07-27T16:30:13+12:00
     1. “I went in thinking we were in the business of new-home construction, But I realized we were in the business of moving lives.”
     2. The focus on knowing more about customers has taken firms in the wrong direction.
     3. The circumstances are more important than customer characteristics, product attributes, new technologies, or trends.
+    4. Jobs are never simply about function—they have powerful social and emotional dimensions.
 
 ## Images
   ![What users really want](https://miro.medium.com/max/885/1*zKCygvaD47nCrqFTTmm8TQ.png)
