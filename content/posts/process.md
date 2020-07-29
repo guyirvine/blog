@@ -28,7 +28,8 @@ date: 2020-07-27T16:30:13+12:00
 
 3. [Jobs To Be Done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
     1. “I went in thinking we were in the business of new-home construction, But I realized we were in the business of moving lives.”
-    2. The circumstances are more important than customer characteristics, product attributes, new technologies, or trends.
+    2. The focus on knowing more about customers has taken firms in the wrong direction.
+    3. The circumstances are more important than customer characteristics, product attributes, new technologies, or trends.
 
 ## Images
   ![What users really want](https://miro.medium.com/max/885/1*zKCygvaD47nCrqFTTmm8TQ.png)
