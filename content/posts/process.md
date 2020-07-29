@@ -24,9 +24,11 @@ date: 2020-07-27T16:30:13+12:00
     2. Lean UX - "Think, Make, Check"
     3. Focus on solving the right problem"
     4. Repeatable & Routine - "This is how we do X"
+    5. Recognise hypotheses and validate them with users
 
 3. [Jobs To Be Done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
     1. “I went in thinking we were in the business of new-home construction, But I realized we were in the business of moving lives.”
+    2. The circumstances are more important than customer characteristics, product attributes, new technologies, or trends.
 
 ## Images
   ![What users really want](https://miro.medium.com/max/885/1*zKCygvaD47nCrqFTTmm8TQ.png)
